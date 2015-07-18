@@ -7,7 +7,7 @@ publisher:
   domain: e59724ba-8a9b-4aa6-b72f-17522a99c0f4
 description: Best Advert Ever?
 datePublished: '2015-07-18T15:59:00.863Z'
-dateModified: '2015-07-18T15:59:00.863Z'
+dateModified: '2015-07-18T16:07:26.652Z'
 sourcePath: _posts/2015-07-18-best-advert-ever.md
 published: true
 url: best-advert-ever/index.html
