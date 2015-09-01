@@ -1,0 +1,26 @@
+name: social
+favicon: null
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#181532'
+    - '#d6d3ca'
+    - '#98908e'
+    - '#736972'
+    - '#a85248'
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
