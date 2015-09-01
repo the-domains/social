@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[social]]></title>
+        <description><![CDATA[social]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Sep 2015 15:55:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The New Classics of Motorcycle Style]]></title>
+            <description><![CDATA[<article><h1>The New Classics of Motorcycle Style</h1><p>Style in the motorcycle scene doesn't change a whole lot. You've mostly got leather, denim, boots, gloves, and helmets to play around with, and fashion here tends to be-first and foremost-functional. But motorcycle culture is also about self-expression. So while bright green, high-visibility jackets and bulky, waterproof pants might keep you safe, they're not stylish, and that's no good.</p><img src="http://www.maxim.com/sites/default/files/editor/2015/07/motostyle_grifter_article.jpg"></article>]]></description>
+            <link>http://www.maxim.com/tech/motorcycles/article/new-classics-motorcycle-style</link>
+            <guid isPermaLink="false">4baa5e6c-c585-4048-ae90-efa3b95f3306</guid>
+            <pubDate>Tue, 01 Sep 2015 15:54:59 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
