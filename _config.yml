@@ -1,5 +1,6 @@
 name: social
 favicon: null
+layout_spectrum: 0.63793
 cta:
   domain: null
   bucket: null
