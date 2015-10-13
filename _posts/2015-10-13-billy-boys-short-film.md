@@ -42,8 +42,8 @@ app_links:
     app_name: Vimeo
 isBasedOnUrl: 'https://vimeo.com/channels/staffpicks/141593462'
 title: BILLY BOYS - SHORT FILM
-datePublished: '2015-10-13T21:43:09.159Z'
-dateModified: '2015-10-13T21:41:22.487Z'
+datePublished: '2015-10-13T21:44:21.239Z'
+dateModified: '2015-10-13T21:44:00.702Z'
 sourcePath: _posts/2015-10-13-billy-boys-short-film.md
 published: true
 inFeed: true
