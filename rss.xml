@@ -5,8 +5,15 @@
         <description><![CDATA[social]]></description>
         <link>https://thegrid.ai/social/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 21:46:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2015 21:46:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/social/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apollo Missions]]></title>
+            <description><![CDATA[<article><h1>Apollo Missions</h1><p>I was looking through the Project Apollo Archive (https://www.flickr.com/photos/projectapolloarchive/) and at one point, I began clicking through a series of pics quickly and it looked like stop motion animation. So, I decided to see what that would look like without me having to click through it. Enjoy!</p><img src="http://i.vimeocdn.com/video/538925648_1280.jpg"></article>]]></description>
+            <link>https://vimeo.com/channels/staffpicks/141812811</link>
+            <guid isPermaLink="false">0ece89f8-e502-4e7e-93d4-1c1de66ea9f5</guid>
+            <pubDate>Tue, 13 Oct 2015 21:46:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apollo Missions]]></title>
             <description><![CDATA[<article><h1>Apollo Missions</h1><p>I was looking through the Project Apollo Archive (https://www.flickr.com/photos/projectapolloarchive/) and at one point, I began clicking through a series of pics quickly and it looked like stop motion animation. So, I decided to see what that would look like without me having to click through it. Enjoy!</p><img src="http://i.vimeocdn.com/video/538925648_1280.jpg"></article>]]></description>
@@ -68,13 +75,6 @@
             <description><![CDATA[<article><h1>Exclusive: Emily Ratajkowski on John Updike, Acting and Getting Naked</h1><p>Let's just stipulate from the outset: Emily Ratajkowski is a very attractive woman. From a purely visual standpoint, she's got it going on. That said, it's not just her looks that make us love her. We're not that shallow. Looks are pedestrian. They're earthbound. They're just looks. Get over it!</p><img src="http://www.maxim.com/sites/default/files/styles/custom_crop/public/editor/2015/08/emrata_2015_sl3.jpg?itok=SeeTpLv9&c=3765f7c8fe16baf5ed46bc7284a0abaf"></article>]]></description>
             <link>http://www.maxim.com/women/stars/article/exclusive-emily-ratajkowski-naked-2015-8</link>
             <guid isPermaLink="false">9319e03a-84f6-4daf-b710-7d6e325ad04a</guid>
-            <pubDate>Tue, 01 Sep 2015 15:54:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://www.maxim.com/sites/default/files/styles/custom_crop/public/editor/2015/08/1967_Toyota_2000GT_002.jpg?itok=lKrEdnwS">]]></description>
-            <link>https://thegrid.ai/social/64e5c9f4-8c00-46e8-af45-977dcf8b1e26/index.html</link>
-            <guid isPermaLink="false">64e5c9f4-8c00-46e8-af45-977dcf8b1e26</guid>
             <pubDate>Tue, 01 Sep 2015 15:54:59 GMT</pubDate>
         </item>
     </channel>
