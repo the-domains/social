@@ -48,8 +48,8 @@ app_links:
     app_name: Vimeo
 isBasedOnUrl: 'https://vimeo.com/channels/staffpicks/141812811'
 title: Apollo Missions
-datePublished: '2015-10-13T21:46:37.315Z'
-dateModified: '2015-10-13T21:46:23.209Z'
+datePublished: '2015-10-13T21:49:00.455Z'
+dateModified: '2015-10-13T21:48:38.792Z'
 sourcePath: _posts/2015-10-13-apollo-missions.md
 published: true
 inFeed: true
