@@ -23,6 +23,6 @@ color:
     - '#d32b04'
   brandStrength: 0.25
   lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 0.5
+  saturation: 0.5625
+  rhythmicContrast: 0.25
 purpose: []
