@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[social]]></title>
         <description><![CDATA[social]]></description>
         <link>https://thegrid.ai/social/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Oct 2015 01:00:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Oct 2015 22:33:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/social/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[New house]]></title>
+            <description><![CDATA[<article><h1>New house</h1><p>Frank/Architects, an Oakland-based firm, designed and built this intimate contemporary cabin tucked away within the redwoods of California. The cabin, located within the Sea Ranch community of Sonoma County, is beautifully clad with vertically placed wood boards designed to mirror the tree trunks surrounding it.</p><img src="http://ourexplorers.com/wp-content/uploads/2014/10/redwood-forest-cabin-exterior.png"></article>]]></description>
+            <link>urn:uuid:e8f94ad9-90fd-402a-bdc7-4ac447599fd9</link>
+            <guid isPermaLink="false">d83af5c9-9cab-4606-b39e-6ddac24b7bbd</guid>
+            <pubDate>Mon, 26 Oct 2015 22:33:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Apollo Missions]]></title>
             <description><![CDATA[<article><h1>Apollo Missions</h1><p>I was looking through the Project Apollo Archive (https://www.flickr.com/photos/projectapolloarchive/) and at one point, I began clicking through a series of pics quickly and it looked like stop motion animation. So, I decided to see what that would look like without me having to click through it. Enjoy!</p><img src="http://i.vimeocdn.com/video/538925648_1280.jpg"></article>]]></description>
