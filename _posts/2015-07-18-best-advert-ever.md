@@ -1,16 +1,24 @@
 ---
-author: []
-title: ''
+inFeed: true
+hasPage: false
+inNav: false
 isBasedOnUrl: 'content://e59724ba-8a9b-4aa6-b72f-17522a99c0f4'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-11-15T02:50:03.160Z'
+dateModified: '2015-11-15T02:49:57.733Z'
+author: []
+title: Best Advert Ever?
+sourcePath: _posts/2015-07-18-best-advert-ever.md
+published: true
+authors: []
 publisher:
   name: e59724ba-8a9b-4aa6-b72f-17522a99c0f4
   domain: e59724ba-8a9b-4aa6-b72f-17522a99c0f4
-description: Best Advert Ever?
-datePublished: '2015-07-18T15:59:00.863Z'
-dateModified: '2015-07-18T16:07:26.652Z'
-sourcePath: _posts/2015-07-18-best-advert-ever.md
-published: true
-url: best-advert-ever/index.html
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
