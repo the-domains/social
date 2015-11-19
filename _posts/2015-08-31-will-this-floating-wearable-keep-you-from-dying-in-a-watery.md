@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.maxim.com'
-  name: Maxim
-  favicon: 'http://www.maxim.com/sites/all/themes/maxim/favicon.png'
-  domain: www.maxim.com
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: false
 keywords:
   - kingii
   - life-vest
@@ -18,14 +16,21 @@ keywords:
   - michelin
   - wearable
 description: "The most recent survival gadget to hit the crowd-funding market is essentially a life jacket you wear on your wrist. They're calling it Kingii, and at the very least, it may be the answer to awkward life-vest tan lines."
-inLanguage: en
+datePublished: '2015-11-19T19:06:48.364Z'
+dateModified: '2015-11-19T18:51:10.342Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.maxim.com/tech/gadgets/article/will-floating-wearable-keep-you-dying-watery-grave'
 title: Will This Floating Wearable Keep You From Dying In A Watery Grave?
-datePublished: '2015-09-01T15:54:59.971Z'
-dateModified: '2015-08-31T07:03:12.944Z'
 sourcePath: _posts/2015-08-31-will-this-floating-wearable-keep-you-from-dying-in-a-watery.md
 published: true
+authors: []
+publisher:
+  name: Maxim
+  domain: www.maxim.com
+  url: 'http://www.maxim.com'
+  favicon: 'http://www.maxim.com/sites/all/themes/maxim/favicon.png'
+url: will-this-floating-wearable-keep-you-from-dying-in-a-watery/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
