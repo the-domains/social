@@ -1,7 +1,8 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.maxim.com/tech/gadgets/article/will-floating-wearable-keep-you-dying-watery-grave'
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +17,8 @@ keywords:
   - michelin
   - wearable
 description: "The most recent survival gadget to hit the crowd-funding market is essentially a life jacket you wear on your wrist. They're calling it Kingii, and at the very least, it may be the answer to awkward life-vest tan lines."
-datePublished: '2015-11-19T19:06:48.364Z'
-dateModified: '2015-11-19T18:51:10.342Z'
+datePublished: '2015-12-07T11:08:12.240Z'
+dateModified: '2015-12-07T11:08:08.461Z'
 author: []
 related: []
 app_links: []
@@ -30,7 +31,6 @@ publisher:
   domain: www.maxim.com
   url: 'http://www.maxim.com'
   favicon: 'http://www.maxim.com/sites/all/themes/maxim/favicon.png'
-url: will-this-floating-wearable-keep-you-from-dying-in-a-watery/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
