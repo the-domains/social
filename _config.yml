@@ -1,7 +1,7 @@
 name: social
 favicon: null
 layout_spectrum: 0.55298
-typography_spectrum: 0.48125
+typography_spectrum: 0.68292
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#463e3c'
     - '#cfcfd1'
   brandStrength: 0.5
-  lightness: 0.3125
-  saturation: 0.125
-  rhythmicContrast: 0.75
+  lightness: 1
+  saturation: 0.375
+  rhythmicContrast: 0.25
 purpose: []
